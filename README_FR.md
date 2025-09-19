@@ -4,7 +4,7 @@
 
 Une application en Java pour rechercher des images avec l'aide des Services Cognitives de Microsoft Azure.
 
-## Context
+## Contexte
 Ce projet constitue le projet final pour le cours intitulé "OOP1" (Object-Oriented Programming ou Programmation Orientée Objet), en utilisant `Java` et ayant lieu pendant le deuxième semestre de 2023.
 
 ## Description et objectifs
